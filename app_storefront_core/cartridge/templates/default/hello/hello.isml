@@ -1,0 +1,48 @@
+<!--- TEMPLATENAME: hello.isml --->
+
+<h1>Hello ${Resource.msg(pdict.CurrentHttpParameterMap.cid.stringValue)}</h1>
+
+
+<h2>${pdict.CurrentHttpParameterMap.cid.stringValue == 'ajax'}</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---CurrentHttpParameterMap.cid.stringValue <h2>${pdict.CurrentHttpParameterMap.cid.stringValue == 'ajax'}</h2> <em>${Resource.msg('global.requiredfield','locale',null)}</em> --->
+

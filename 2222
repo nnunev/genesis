@@ -1,0 +1,15 @@
+Verifying server
+Verifying server connection
+Verifying API version
+Verifying upload directory
+Creating cartridge ZIP file: 'app_storefront_controllers'
+Deleting remote cartridge: 'app_storefront_controllers'
+Uploading cartridge ZIP file: 'app_storefront_controllers'
+Creating cartridge ZIP file: 'app_storefront_core'
+Deleting remote cartridge: 'app_storefront_core'
+Uploading cartridge ZIP file: 'app_storefront_core'
+Creating cartridge ZIP file: 'app_storefront_pipelines'
+Deleting remote cartridge: 'app_storefront_pipelines'
+Uploading cartridge ZIP file: 'app_storefront_pipelines'
+
+Build complete
